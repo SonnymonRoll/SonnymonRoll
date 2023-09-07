@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sonia García (@SonnymonRoll on github and most social media).
 - 👀 I’m interested in technology, medicine and arts.
-- 🌱 I’m currently learning Java and software development.
+- 🌱 I’m currently learning Java and software development in Python and Java.
 - 💞️ I’m looking to collaborate on anything that challenges me and enhances my abilities.
 - 📫 How to reach me soniagarcia@outlook.com
 
